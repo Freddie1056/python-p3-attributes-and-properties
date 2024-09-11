@@ -383,3 +383,4 @@ are saved to the classes and objects we've worked so hard to make.
 
 [python docs property]:
     https://docs.python.org/3/library/functions.html#property
+# python-p3-attributes-and-properties
